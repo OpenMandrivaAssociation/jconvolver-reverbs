@@ -1,6 +1,6 @@
 %define name            jconvolver-reverbs
 %define version         0.8.4
-%define release         %mkrel 1
+%define release         %mkrel 2
 
 %define jconv_name      jconvolver
 
@@ -13,7 +13,7 @@ Source:         http://www.kokkinizita.net/linuxaudio/downloads/jconvolver-rever
 URL:            http://www.kokkinizita.net/linuxaudio/
 License:        GPLv2
 Group:          Sound
-
+BuildArch:      noarch
 
 %description
 Reverb example impulse responses for Jconvolver, the Convolution Engine 
