@@ -35,3 +35,19 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root,-)
 %{_datadir}/%jconv_name/reverbs/*
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 0.8.4-3mdv2011.0
++ Revision: 612442
+- the mass rebuild of 2010.1 packages
+
+* Thu Mar 04 2010 Frank Kober <emuse@mandriva.org> 0.8.4-2mdv2010.1
++ Revision: 514269
+- fix build arch: noarch
+
+* Tue Mar 02 2010 Frank Kober <emuse@mandriva.org> 0.8.4-1mdv2010.1
++ Revision: 513685
+- import jconvolver-reverbs
+
+
