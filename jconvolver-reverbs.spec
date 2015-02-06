@@ -1,6 +1,6 @@
 %define name            jconvolver-reverbs
 %define version         0.8.4
-%define release         %mkrel 3
+%define release         4
 
 %define jconv_name      jconvolver
 
