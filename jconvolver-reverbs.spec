@@ -10,7 +10,7 @@ Version:        %{version}
 Release:        %{release}
 
 Source:         http://www.kokkinizita.net/linuxaudio/downloads/jconvolver-reverbs.tar.bz2
-URL:            http://www.kokkinizita.net/linuxaudio/
+URL:            https://www.kokkinizita.net/linuxaudio/
 License:        GPLv2
 Group:          Sound
 BuildArch:      noarch
