@@ -16,7 +16,7 @@ environments such as cathedral, concert hall and chapel. These files can
 be loaded into jconvolver to produce realistic reverb effects. 
 
 %files
-%{_datadir}/ jconvolver/reverbs/*
+%{_datadir}/jconvolver/reverbs/*
 
 #-----------------------------------------------------------------------------
 
